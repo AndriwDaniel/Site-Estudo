@@ -1,0 +1,10 @@
+html {
+    background-color: #000000; 
+    color: white;
+}
+img {
+    width: 500px;
+}
+p {
+    max-width: 500px;
+}
